@@ -15,8 +15,3 @@ A simple Voice-to-Voice AI Assistant built with Python. It listens to your voice
    - Converts the AI text answer into an audio file using `gTTS` and plays the voice response automatically using `pygame`.
 
 ---
-
-## 📋 Requirements
-
-- **Python 3.9** or newer
-- Free API Key from [Cohere Dashboard](https://dashboard.cohere.com/)
