@@ -1,4 +1,4 @@
-#Voice-to-Voice-AI-Assistant
+# 🎙️ Voice-to-Voice AI Assistant
 
 A simple Voice-to-Voice AI Assistant built with Python. It listens to your voice, understands what you say using a Large Language Model (Cohere API), and speaks the answer back to you in Arabic.
 
